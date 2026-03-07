@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66255449286",
+    "project_id": "project-iot-unw",
+    "storage_bucket": "project-iot-unw.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66255449286:android:640acf4f3fd927bdd47bc7",
+        "android_client_info": {
+          "package_name": "com.example.kontrol_lampu_iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3iWj-m6zYUgwHMKHzESLUJx_euAh3Lrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
