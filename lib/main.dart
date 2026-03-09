@@ -117,10 +117,10 @@ class _ConnectionIndicatorState extends State<ConnectionIndicator> {
     Color dotColor;
     String statusText;
 
-    if (_lastBeat == 0 || diff > 40) {
+    if (_lastBeat == 0 || diff > 11) {
       dotColor = Colors.redAccent; 
       statusText = "ESP32 Offline (Mati/Terputus)";
-    } else if (diff > 15) {
+    } else if (diff > 6) {
       dotColor = Colors.amber; 
       statusText = "Koneksi Tidak Stabil / Timeout";
     } else {

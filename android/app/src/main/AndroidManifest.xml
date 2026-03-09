@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="kontrol_lampu_iot"
+        android:label="LighTInk"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
